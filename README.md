@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Java+Backend+Developer;Building+REST+APIs">
 </p>
 
-## About Me
+## Hi, I am a 
 
 Backend Developer focused on **Java** and **Spring Boot**.
 I enjoy building clean, maintainable, and scalable backend applications. My main interest is designing REST APIs, applying software engineering best practices.
@@ -43,8 +43,8 @@ Node.js , TypeScript, Express.js , Prisma , Mongoose , JWT ,etc.
 ---
 
 <p align="center">
-  <a href="mailto:carloszubiletesanchez@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/carlos-zubilete-sanchez-78232b2b9/">LinkedIn</a> •
+  <a href="mailto:carloszubiletesanchez@gmail.com">Email</a> | 
+  <a href="https://www.linkedin.com/in/carlos-zubilete-sanchez-78232b2b9/">LinkedIn</a> | 
   <a href="https://github.com/CarlosZubilete">GitHub</a>
 </p>
 
