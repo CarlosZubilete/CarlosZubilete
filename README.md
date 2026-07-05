@@ -4,24 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Java+Backend+Developer;Building+REST+APIs">
 </p>
 
-## Hi, I am a 
 
-Backend Developer focused on **Java** and **Spring Boot**.
-I enjoy building clean, maintainable, and scalable backend applications. My main interest is designing REST APIs, applying software engineering best practices.
-I am always improving my skills and building projects that reflect real backend development.
+## I am a
+
+I am a Backend Developer who loves solving problems with software. I enjoy building clean, maintainable, and scalable applications. My main interest is designing REST APIs using software engineering best practices.
+
+My main focus is working with Java, Spring Boot, and Functional Programming (Streams API), but I also have experience building backend services using Node.js, TypeScript, Express.js, Mongoose, and JWT.
+
+I am looking for a team to join because I want to gain more experience, solve real problems, and learn together. I am very motivated to listen and learn from developers who have more experience than me.
 
 ---
 
 
+## Core Skills
 
-
-```.puml
-                                                ┌───────────┐                                 
-                                                │Core Skills│                                 
-                                                ├───────────┤                                 
-                                                └───────────┘                                 
-                                                                                              
-                                                                                              
+```.puml                                                                                             
 ┌─────────────────┐  ┌───────────────────────────────────┐                                    
 │Backend          │  │Software Design                    │   ┌────────────┐   ┌──────────────┐
 ├─────────────────┤  ├───────────────────────────────────┤   │Databases   │   │Tools         │
@@ -35,17 +32,9 @@ I am always improving my skills and building projects that reflect real backend 
 ```
 ---
 
-### Additional Experience
-
-I also have experience building backend applications with:
-Node.js , TypeScript, Express.js , Prisma , Mongoose , JWT ,etc.
-
----
-
 <p align="center">
   <a href="mailto:carloszubiletesanchez@gmail.com">Email</a> | 
-  <a href="https://www.linkedin.com/in/carlos-zubilete-sanchez-78232b2b9/">LinkedIn</a> | 
-  <a href="https://github.com/CarlosZubilete">GitHub</a>
+  <a href="https://www.linkedin.com/in/carlos-zubilete-sanchez-78232b2b9/">LinkedIn</a>  
 </p>
 
 ---
