@@ -7,7 +7,7 @@
 
 ## I am a
 
-I am a Backend Developer who loves solving problems with software. I enjoy building clean, maintainable, and scalable applications. My main interest is designing REST APIs using software engineering best practices.
+Backend Developer who loves solving problems with software. I enjoy building clean, maintainable, and scalable applications. My main interest is designing REST APIs using software engineering best practices.
 
 My main focus is working with Java, Spring Boot, and Functional Programming (Streams API), but I also have experience building backend services using Node.js, TypeScript, Express.js, Mongoose, and JWT.
 
